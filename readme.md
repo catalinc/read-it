@@ -1,3 +1,3 @@
-# readit
+# read-it
 
 Basic HackerNews/Reddit clone.
